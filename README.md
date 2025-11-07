@@ -10,6 +10,12 @@ Employee attrition is a major concern for organizations aiming to maintain stabi
 
 ---
 
+## 🔗 Links
+
+* **Live Power BI Dashboard:** [View on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiODNmOWM2MmUtZmYzNC00OGZmLWI4NWYtMThlMzczZDY2MTI5IiwidCI6IjIxZGEzZTE2LTU2NjgtNDNhYy04MThmLTBjYzU4YzVlZmFmNCJ9)
+
+---
+
 ## 🧭 Dashboard Pages
 
 ### **1️⃣ Employee Overview**
@@ -89,13 +95,6 @@ PowerBI-Employee-Attrition-and-Performance-Dashboard/
 └── README.md
 ```
 
----
-
-## 🔗 Links
-
-* **Live Power BI Dashboard:** [View on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiODNmOWM2MmUtZmYzNC00OGZmLWI4NWYtMThlMzczZDY2MTI5IiwidCI6IjIxZGEzZTE2LTU2NjgtNDNhYy04MThmLTBjYzU4YzVlZmFmNCJ9)
-
----
 
 ## 📸 Dashboard Preview
 
