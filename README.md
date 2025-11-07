@@ -1,4 +1,4 @@
-- # 💼 Power BI Employee Attrition & Performance Dashboard
+## 💼 Power BI Employee Attrition & Performance Dashboard
 
 This project presents an interactive **Power BI Dashboard** designed to analyze and visualize employee attrition and performance data. It helps HR teams and management identify trends, monitor workforce satisfaction, and understand factors influencing employee retention.
 
