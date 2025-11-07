@@ -60,14 +60,31 @@ Employee attrition is a major concern for organizations aiming to maintain stabi
 ```
 PowerBI-Employee-Attrition-and-Performance-Dashboard/
 │
-├── 📊 Dashboard Screenshot/
+├── 📁 Background/
+│   └── Background 2.jpg
+│   └── Background Img.png
+│   └── Background.pptx
+│
+├── 📁 Dashboard Screenshot/
+│   └── 1 Employee Overview.png
+│   └── 2 Employee Overview Only Attrition.png
+│   └── 3 Attrition Analysis.png
+│   └── 4 Performance & Satisfaction.png
 │   └── All.png
 │
 ├── 📁 Dataset/
-│   └── employee_attrition_data.csv
+│   └── Data 2.xlsx
+│   └── Data.xlsx
 │
-├── 📁 Power BI File/
-│   └── Employee_Attrition_Performance.pbix
+├── 📁 Icon/
+│   └── Attrition Count.png
+│   └── Attrition Rate.jpg
+│   └── Employee.png
+│   └── Off.png
+│   └── On.png
+│
+├── 📊 Employee_Attrition_Performance.pbix/
+│  
 │
 └── README.md
 ```
