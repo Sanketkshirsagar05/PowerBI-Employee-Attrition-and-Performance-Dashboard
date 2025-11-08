@@ -120,7 +120,7 @@ The **Employee Attrition & Performance Dashboard** provides actionable insights 
 
 **Sanket Kshirsagar**
 💼 Data Analyst | Data Science Enthusiast
-🔗 [LinkedIn]([https://www.linkedin.com/in/sanketkshirsagar05](https://www.linkedin.com/in/sanket-kshirsagar-0a416820b/))
+🔗 [LinkedIn](https://www.linkedin.com/in/sanket-kshirsagar-0a416820b/)
 📧 [sanketkshirsagar05@gmail.com](mailto:sanketkshirsagar05@gmail.com)
 
 ---
